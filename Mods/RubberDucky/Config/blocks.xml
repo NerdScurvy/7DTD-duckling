@@ -1,0 +1,16 @@
+<configs>
+	<append xpath="/blocks">	
+		<block name="rubberDucky">
+			<property name="Material" value="Mplastics"/>
+			<property name="IsTerrainDecoration" value="true"/>
+			<property name="StabilitySupport" value="false"/>
+			<property name="OnlySimpleRotations" value="false"/> 
+			<property name="CanPickup" value="true" /> 
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
+			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/RubberDucky.unity3d?BlockRubberDuck" />
+			<property name="CustomIcon" value="rubberDuck" />
+		</block>
+	</append>
+</configs>
