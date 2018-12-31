@@ -1,0 +1,68 @@
+<configs>
+	<set xpath="/quests/quest[@id='tier1_clear']/reward[@type='Exp']/@value">5000</set>
+	<set xpath="/quests/quest[@id='tier1_clear']/reward[@type='Item']/@value">600-1500</set>
+	<set xpath="/quests/quest[@id='tier2_clear']/reward[@type='Exp']/@value">7500</set>
+	<set xpath="/quests/quest[@id='tier2_clear']/reward[@type='Item']/@value">1500-2250</set>
+	<set xpath="/quests/quest[@id='tier3_clear']/reward[@type='Exp']/@value">10000</set>
+	<set xpath="/quests/quest[@id='tier3_clear']/reward[@type='Item']/@value">2250-3000</set>
+	<set xpath="/quests/quest[@id='tier4_clear']/reward[@type='Exp']/@value">12500</set>
+	<set xpath="/quests/quest[@id='tier4_clear']/reward[@type='Item']/@value">3000-3750</set>
+	<set xpath="/quests/quest[@id='tier5_clear']/reward[@type='Exp']/@value">15000</set>
+	<set xpath="/quests/quest[@id='tier5_clear']/reward[@type='Item']/@value">3750-4500</set>
+	<set xpath="/quests/quest[@id='tier6_clear']/reward[@type='Exp']/@value">17500</set>
+	<set xpath="/quests/quest[@id='tier6_clear']/reward[@type='Item']/@value">4500-5250</set>
+	
+	<set xpath="/quests/quest[@id='tier1_fetch']/reward[@type='Exp']/@value">5000</set>
+	<set xpath="/quests/quest[@id='tier1_fetch']/reward[@type='Item']/@value">600-1500</set>
+	<set xpath="/quests/quest[@id='tier2_fetch']/reward[@type='Exp']/@value">7500</set>
+	<set xpath="/quests/quest[@id='tier2_fetch']/reward[@type='Item']/@value">1500-2250</set>
+	<set xpath="/quests/quest[@id='tier3_fetch']/reward[@type='Exp']/@value">10000</set>
+	<set xpath="/quests/quest[@id='tier3_fetch']/reward[@type='Item']/@value">2250-3000</set>
+	<set xpath="/quests/quest[@id='tier4_fetch']/reward[@type='Exp']/@value">12500</set>
+	<set xpath="/quests/quest[@id='tier4_fetch']/reward[@type='Item']/@value">3000-3750</set>
+	<set xpath="/quests/quest[@id='tier5_fetch']/reward[@type='Exp']/@value">15000</set>
+	<set xpath="/quests/quest[@id='tier5_fetch']/reward[@type='Item']/@value">3750-4500</set>
+	<set xpath="/quests/quest[@id='tier6_fetch']/reward[@type='Exp']/@value">17500</set>
+	<set xpath="/quests/quest[@id='tier6_fetch']/reward[@type='Item']/@value">4500-5250</set>
+	
+	<set xpath="/quests/quest[@id='tier2_hidden_cache']/reward[@type='Exp']/@value">10000</set>
+	<set xpath="/quests/quest[@id='tier2_hidden_cache']/reward[@type='Item']/@value">2250-3000</set>
+	<set xpath="/quests/quest[@id='tier3_hidden_cache']/reward[@type='Exp']/@value">12500</set>
+	<set xpath="/quests/quest[@id='tier3_hidden_cache']/reward[@type='Item']/@value">3000-3750</set>
+	<set xpath="/quests/quest[@id='tier4_hidden_cache']/reward[@type='Exp']/@value">15000</set>
+	<set xpath="/quests/quest[@id='tier4_hidden_cache']/reward[@type='Item']/@value">3750-4500</set>
+	<set xpath="/quests/quest[@id='tier5_hidden_cache']/reward[@type='Exp']/@value">17500</set>
+	<set xpath="/quests/quest[@id='tier5_hidden_cache']/reward[@type='Item']/@value">4500-5250</set>
+	<set xpath="/quests/quest[@id='tier6_hidden_cache']/reward[@type='Exp']/@value">20000</set>
+	<set xpath="/quests/quest[@id='tier6_hidden_cache']/reward[@type='Item']/@value">5250-6000</set>
+	
+	<set xpath="/quests/quest[@id='tier2_fetch_clear']/reward[@type='Exp']/@value">10000</set>
+	<set xpath="/quests/quest[@id='tier2_fetch_clear']/reward[@type='Item']/@value">2250-3000</set>
+	<set xpath="/quests/quest[@id='tier3_fetch_clear']/reward[@type='Exp']/@value">12500</set>
+	<set xpath="/quests/quest[@id='tier3_fetch_clear']/reward[@type='Item']/@value">3000-3750</set>
+	<set xpath="/quests/quest[@id='tier4_fetch_clear']/reward[@type='Exp']/@value">15000</set>
+	<set xpath="/quests/quest[@id='tier4_fetch_clear']/reward[@type='Item']/@value">3750-4500</set>
+	<set xpath="/quests/quest[@id='tier5_fetch_clear']/reward[@type='Exp']/@value">17500</set>
+	<set xpath="/quests/quest[@id='tier5_fetch_clear']/reward[@type='Item']/@value">4500-5250</set>
+	<set xpath="/quests/quest[@id='tier6_fetch_clear']/reward[@type='Exp']/@value">20000</set>
+	<set xpath="/quests/quest[@id='tier6_fetch_clear']/reward[@type='Item']/@value">5250-6000</set>
+	
+	<set xpath="/quests/quest[@id='tier3_hidden_clear']/reward[@type='Exp']/@value">15000</set>
+	<set xpath="/quests/quest[@id='tier3_hidden_clear']/reward[@type='Item']/@value">3750-4500</set>
+	<set xpath="/quests/quest[@id='tier4_hidden_clear']/reward[@type='Exp']/@value">17500</set>
+	<set xpath="/quests/quest[@id='tier4_hidden_clear']/reward[@type='Item']/@value">4500-5250</set>
+	<set xpath="/quests/quest[@id='tier5_hidden_clear']/reward[@type='Exp']/@value">20000</set>
+	<set xpath="/quests/quest[@id='tier5_hidden_clear']/reward[@type='Item']/@value">5250-6000</set>
+	<set xpath="/quests/quest[@id='tier6_hidden_clear']/reward[@type='Exp']/@value">22500</set>
+	<set xpath="/quests/quest[@id='tier6_hidden_clear']/reward[@type='Item']/@value">6000-6750</set>
+	
+	<set xpath="/quests/quest[@id='tier1_buried_supplies']/reward[@type='Exp']/@value">5000</set>
+	<set xpath="/quests/quest[@id='tier1_buried_supplies']/reward[@type='Item']/@value">4500-5250</set>
+	
+	<set xpath="/quests/quest[@id='quest_tier1complete']/reward[@type='Item']/@value">6000</set>
+	<set xpath="/quests/quest[@id='quest_tier2complete']/reward[@type='Item']/@value">6000</set>
+	<set xpath="/quests/quest[@id='quest_tier3complete']/reward[@type='Item']/@value">6000</set>
+	<set xpath="/quests/quest[@id='quest_tier4complete']/reward[@type='Item']/@value">6000</set>
+	<set xpath="/quests/quest[@id='quest_tier5complete']/reward[@type='Item']/@value">6000</set>
+	<set xpath="/quests/quest[@id='quest_tier6complete']/reward[@type='Item']/@value">6000</set>
+</configs>

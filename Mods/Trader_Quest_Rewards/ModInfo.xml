@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Trader Quest Rewards" />
+		<Description value="Increases the dukes and XP bonus from completing trader quests." />
+		<Author value="iCEhOT"/>
+		<Version value="A17" />
+	</ModInfo>
+</xml>
