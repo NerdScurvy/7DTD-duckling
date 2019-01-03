@@ -10,8 +10,6 @@
 	<append xpath="/items/item[@name='drinkJarSnowberryJuice']">
 		<property name="Stacknumber" value="30" /> 
 	</append>
-	
-	
-	
+	<set xpath="/items/item[@name='schematicMaster']/property[@name='Stacknumber']/@value">30</set>
 	
 </configs>
