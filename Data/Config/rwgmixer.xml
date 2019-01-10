@@ -109,7 +109,7 @@
 			<prefab name="xcostum_Hospital(by_Wsiegel)" max_count="1" />			
 			<prefab name="xcostum_Park(by_Guppycur)" max_count="1" />
 			<prefab name="xcostum_house_number14(by_Kam)" max_count="1" />
-			<prefab name="xcostum_NotreDamn_(by_tehkarma)" max_count="1" />
+			<!--prefab name="xcostum_NotreDamn_(by_tehkarma)" max_count="1" /-->
 			<prefab name="xcostum_Woodhouse(by_Tom)" max_count="1" />
 			<prefab name="xcostum_Redhouse(by_Tom)" max_count="1" />
 			<prefab name="xcostum_cityhouse3(by_Kam)" max_count="1" />
@@ -169,7 +169,7 @@
 			<prefab name="xcostum_house_modern_03(by_Kam)" max_count="1" />
 			<prefab name="xcostum_house_modern_04(by_Kam)" max_count="1" />
 			<prefab name="xcostum_house_modern_05(by_Kam)" max_count="1" />			
-			<prefab name="xcostum_NotreDamn_(by_tehkarma)" max_count="1" />			
+			<!--prefab name="xcostum_NotreDamn_(by_tehkarma)" max_count="1" /-->			
 			<prefab name="xcostum_Stonehouse01(by_Tom)" max_count="1" />
 			<prefab name="xcostum_Villa(by_Tom)" max_count="1" />
 			<prefab name="xcostum_Roundhouse(by_Tom)" max_count="1" />
@@ -273,9 +273,9 @@
 			<prefab name="xcostum_Apartments_Curtilage_Playground(by_magoli)" max_count="1" />
 			<prefab name="xcostum_3BlockStores(by_Leo_Liuos)" max_count="1" />
 			<prefab name="xcostum_Apartment_Stores(by_Laz_Man)" max_count="1" />
-			<prefab name="xcostum_Asia_Restaurant_city(by_Redlotus)" max_count="1" />			
+			<!--prefab name="xcostum_Asia_Restaurant_city(by_Redlotus)" max_count="1" /> -->			
 			<prefab name="xcostum_Courthouse(by_stallionsden)" max_count="1" />
-			<prefab name="xcostum_NotreDamn_(by_tehkarma)" max_count="1" />
+			<!--prefab name="xcostum_NotreDamn_(by_tehkarma)" max_count="1" /-->
 			<prefab name="xcostum_bridgesideapartmentsA16(by_Batman)" max_count="1" />
 			<prefab name="xcostum_CasinoANKH(by_magoli)" max_count="1" />
 			<prefab name="xcostum_rollerskatedisco(by_magoli)" max_count="1" />			
