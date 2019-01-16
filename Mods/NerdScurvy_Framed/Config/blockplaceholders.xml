@@ -1,0 +1,6 @@
+<configs>
+	<append xpath="/blockplaceholders/placeholder[@name='paintingPictureRandomHelper']">	
+	    <block name="paintingLeaf" prob="1"/>
+		<block name="paintingKitten" prob="1"/>
+	</append>
+</configs>

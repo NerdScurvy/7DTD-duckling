@@ -1,0 +1,73 @@
+
+<configs>
+	<append xpath="/blocks">	
+		<block name="paintingLeaf">
+		    <property name="Extends" value="paintingBen"/>
+			<property name="CustomIcon" value="paintingLeaf" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/Painting.unity3d?BlockPaintingLeaf" />
+			<property name="Collide" value="sight,movement,melee,bullet,arrow,rocket" />
+			<drop event="Destroy" count="1" name="paintingLeaf"/>
+		</block>
+		<block name="paintingKitten">
+		    <property name="Extends" value="paintingBen"/>
+			<property name="CustomIcon" value="paintingKitten" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/Painting.unity3d?BlockPaintingKitten" />
+			<property name="Collide" value="sight,movement,melee,bullet,arrow,rocket" />
+			<drop event="Destroy" count="1" name="paintingKitten"/>
+		</block>		
+	</append>
+	
+	
+	<!--<append xpath="/blocks/block[@name='paintingBen']">
+	    <drop event="Destroy" count="1" name="paintingBen"/>
+	</append>-->
+
+	<append xpath="/blocks/block[@name='paintingLorien']">
+	    <drop event="Destroy" count="1" name="paintingLorien"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='paintingDerek']">
+	    <drop event="Destroy" count="1" name="paintingDerek"/>
+	</append>	
+	
+	<append xpath="/blocks/block[@name='paintingNoah']">
+	    <drop event="Destroy" count="1" name="paintingNoah"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='paintingDuke']">
+	    <drop event="Destroy" count="1" name="paintingDuke"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='paintingKen']">
+	    <drop event="Destroy" count="1" name="paintingKen"/>
+	</append>	
+	
+
+	<append xpath="/blocks/block[@name='hiddenSafePaintingBen']">
+	    <drop event="Destroy" count="1" name="paintingBen"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='hiddenSafePaintingLorien']">
+	    <drop event="Destroy" count="1" name="paintingLorien"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='hiddenSafePaintingDerek']">
+	    <drop event="Destroy" count="1" name="paintingDerek"/>
+	</append>	
+	
+	<append xpath="/blocks/block[@name='hiddenSafePaintingNoah']">
+	    <drop event="Destroy" count="1" name="paintingNoah"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='hiddenSafePaintingDuke']">
+	    <drop event="Destroy" count="1" name="paintingDuke"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='hiddenSafePaintingKen']">
+	    <drop event="Destroy" count="1" name="paintingKen"/>
+	</append>	
+
+	
+</configs>
