@@ -17,7 +17,6 @@
     <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
     <property name="DifficultyTier" value="1" />
     <property name="EditorGroups" value="Wilderness" />
-    <property name="SleeperIsBossVolume" value="False" />
-    <property name="DifficultyTier" value="1" />
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False" />
     <property name="ExcludePOICulling" value="False" />
 </prefab>

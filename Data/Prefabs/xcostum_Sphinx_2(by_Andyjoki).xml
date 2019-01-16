@@ -15,7 +15,7 @@
     <property name="SleeperVolumeGameStageAdjust" value="50,50,50,,,50,50,,50,50,50,50,50,100,50,50,,100,100,50,medium,100,200,100,100,50,50,,,50,,50,50" />
     <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
     <property name="EditorGroups" value="Wilderness" />
-    <property name="SleeperIsBossVolume" value="False" />
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
     <property name="DifficultyTier" value="1" />
     <property name="ExcludePOICulling" value="False" />
 </prefab>
