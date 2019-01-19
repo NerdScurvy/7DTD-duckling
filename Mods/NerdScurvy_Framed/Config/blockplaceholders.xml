@@ -7,4 +7,16 @@
 		<block name="paintingWatermelon" prob="1"/>
 		<block name="paintingMonarch" prob="1"/>
 	</append>
+	
+	<append xpath="/blockplaceholders/placeholder[@name='cntPaintingPictureSafeRandomLootHelper']">	
+	    <block name="hiddenSafePaintingLeaf" prob="1"/>
+		<block name="hiddenSafePaintingKitten" prob="1"/>
+		<block name="hiddenSafePaintingLlama" prob="1"/>
+		<block name="hiddenSafePaintingMonaLisa" prob="1"/>
+		<block name="hiddenSafePaintingWatermelon" prob="1"/>
+		<block name="hiddenSafePaintingMonarch" prob="1"/>
+	</append>
+	
+	
+	
 </configs>
