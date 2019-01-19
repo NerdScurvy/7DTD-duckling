@@ -40,7 +40,7 @@
 			<item name="modNailedBatSchematic" prob="0.25"/>
 			<item name="modSmallGearBatSchematic" prob="0.25"/>
 			<item name="modPommelPantherBatSchematic" prob="0.25"/>	
-			<item name="meleeWoodBatSchematic" prob="0.25"/>
+			<item name="meleeWoodBatSchematic" prob="0.35"/>
 	</append>
 	<append xpath="/lootcontainers/lootgroup[@name='rareBooks']">
 			<item name="modCrownBatSchematic" prob="0.25"/>
@@ -56,16 +56,16 @@
 			<item name="modSparkyBatSchematic" prob="0.25"/>					
 			<item name="modPommelHoundBatSchematic" prob="0.25"/>
 			<item name="modGripRubberBatSchematic" prob="0.25"/>
-			<item name="SalvagedLatheSchematic" prob="0.3"/>
+			<item name="SalvagedLatheSchematic" prob="0.35"/>
 	</append>	
 	
 	<append xpath="/lootcontainers/lootgroup[@name='weaponsMelee']">
-		<item name="meleeWoodBat" mods="head,sweetspot,effects,grip,pommel" mod_chance=".50"/> 
-		<item name="meleeAluminumBat" mods="head,sweetspot,effects,grip,pommel" mod_chance=".50"/> 
+		<item name="meleeWoodBat" mods="head,sweetspot,effects,grip,pommel" mod_chance="0.50"/> 
+		<item name="meleeAluminumBat" mods="head,sweetspot,effects,grip,pommel" mod_chance="0.50"/> 
 		<item name="MeleeBatLegendarySawBat" prob="0.05"/>
 	</append>	
-<!--	<append xpath="/lootcontainers/lootgroup[@name='junk']">
-		<item name="meleeWoodBat" mods="head,sweetspot,effects,grip,pommel" mod_chance=".90"/> 
-		<item name="meleeAluminumBat" mods="head,sweetspot,effects,grip,pommel" mod_chance=".90"/>  For testing lootdrops  
-	</append>	-->
+	<append xpath="/lootcontainers/lootgroup[@name='junk']">
+		<item name="meleeWoodBat" mods="head,sweetspot,effects,grip,pommel" mod_chance="0.25" prob="0.002"/> 
+		<item name="meleeAluminumBat" mods="head,sweetspot,effects,grip,pommel" mod_chance="0.25"  prob="0.001"/>
+	</append>	
 </configs> 

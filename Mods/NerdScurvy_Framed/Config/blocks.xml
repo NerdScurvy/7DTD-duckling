@@ -50,6 +50,48 @@
 			<drop event="Destroy" count="1" name="paintingMonarch"/>
 		</block>	
 
+		<block name="hiddenSafePaintingLeaf">
+			<property name="Extends" value="paintingLeaf"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>		
+
+		<block name="hiddenSafePaintingKitten">
+			<property name="Extends" value="paintingKitten"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>		
+
+		<block name="hiddenSafePaintingLlama">
+			<property name="Extends" value="paintingLlama"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>		
+		
+		<block name="hiddenSafePaintingWatermelon">
+			<property name="Extends" value="paintingWatermelon"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>		
+		
+		<block name="hiddenSafePaintingMonaLisa">
+			<property name="Extends" value="paintingLeaf"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>		
+		
+		<block name="hiddenSafePaintingMonarch">
+			<property name="Extends" value="paintingMonarch"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>		
+		
 	</append>
 	
 	
